@@ -1,0 +1,14 @@
+{
+    "name": "tanseer/booking",
+    "description": "Booking Appointment to manage bookings using calendar",
+    "keywords": ["laravel", "booking appointment","booking","calendar"],
+    "authors": [
+        {
+            "name": "Tanseer",
+            "email": "tanseercena@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
